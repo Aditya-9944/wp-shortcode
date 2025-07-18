@@ -31,7 +31,7 @@ This plugin is meant to demonstrate:
 
 **Aditya Singh**  
 GitHub: [@Aditya-9944](https://github.com/Aditya-9944)  
-WordPress.org: *[Link once profile is ready]*  
+WordPress.org: https://profiles.wordpress.org/adityasingh9944/profile/edit/group/1/  
 
 ## 📜 License
 
